@@ -1,4 +1,4 @@
-# **Jogo da Memória** [⬅️try it](#https://estudosreact-jogodamemoria.netlify.app/) !!
+# **Jogo da Memória** [⬅️try it](https://estudosreact-jogodamemoria.netlify.app/) !!
 
 ## 📖 **_Contexto da aula_**
 
